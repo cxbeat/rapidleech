@@ -2,7 +2,6 @@
 if (!defined('RAPIDLEECH')) { require_once("index.html"); exit; }
 $premium_acc = array();
 
-$secretkey= "ASdfq*(das127SGAb&&"
 ### Remove '//' from the beginning and enter your username and password for enable premium account ###
 //$premium_acc["rapidshare_com"] = array('user' => 'your username', 'pass' => 'your password');
 // For multiple rapidshare premium accounts only - if you are using multiple accounts below, comment out the line above
